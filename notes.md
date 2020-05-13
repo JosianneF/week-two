@@ -8,4 +8,8 @@ podcast notes:
   
   -"contextualize your work in the kinds of history you've already done"
   
+  Readings notes: 
+  
+  
+  
   
