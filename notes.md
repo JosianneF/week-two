@@ -19,5 +19,6 @@
  
  *Sublimetext:*
  I had issues downloading Sublimetext on my work laptop because I'm not an "adminitrator". I did not want to call help desk at work to let me download it on my personal computer. 
+ 
  Side note: figured out how to include picture on this page. Since I created an images folder, I have to include "images/" before the title of the image as it's in a different "directory". 
 ![](images/issues%20downloading%20Sublimetext.PNG)
