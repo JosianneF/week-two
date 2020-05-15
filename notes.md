@@ -13,8 +13,4 @@ podcast notes:
  
  
 
-  
-  
-  "![](Capture%102.PNG)"
-  
-![](Capture%102.PNG)
+ 
