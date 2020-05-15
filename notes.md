@@ -14,3 +14,4 @@ podcast notes:
  
 
  
+![](issues%20downloading%20Sublimetext.PNG)
